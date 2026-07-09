@@ -1,0 +1,41 @@
+# Storing numbers in variables
+num1 = 10
+num2 = 5
+
+# Performing basic operations
+addition = num1 + num2
+multiplication = num1 * num2
+
+print("Addition result:", addition)
+print("Multiplication result:", multiplication)
+# Storing numbers in variables
+num1 = 10
+num2 = 5
+
+# Performing basic operations
+addition = num1 + num2
+multiplication = num1 * num2
+
+print("Addition result:", addition)
+print("Multiplication result:", multiplication)
+# Storing numbers in variables
+num1 = 10
+num2 = 5
+
+# Performing basic operations
+addition = num1 + num2
+multiplication = num1 * num2
+
+print("Addition result:", addition)
+print("Multiplication result:", multiplication)
+# Storing numbers in variables
+num1 = 10
+num2 = 5
+
+# Performing basic operations
+addition = num1 + num2
+multiplication = num1 * num2
+
+print("Addition result:", addition)
+print("Multiplication result:", multiplication)
+
